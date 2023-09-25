@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CircularProgressBar">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerInParent">true</item>
+        <item name="android:visibility">gone</item>
+        <item name="android:background">#212428</item> <!-- Background color -->
+        <item name="android:indeterminateTintMode">src_atop</item> <!-- Color of the circular indicator -->
+        <item name="android:indeterminateTint">#FFFFFF</item> <!-- Color of the circular indicator (white) -->
+    </style>
+
+</resources>

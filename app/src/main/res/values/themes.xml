@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.RishabhSrivastava" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+
+    </style>
+
+    <style name="Theme.RishabhSrivastava" parent="Base.Theme.RishabhSrivastava" >
+        <item name="colorPrimary">@color/primary</item>
+<!--        <item name="android:windowBackground">#212428</item>-->
+    </style>
+    <color name="primary">#212428</color>
+</resources>
